@@ -1,0 +1,1 @@
+# Newton-Raphson-Forward-and-Inverse-Kinematics
