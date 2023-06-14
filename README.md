@@ -7,23 +7,23 @@
 Code written and executed using MATLAB, C++ and Python
 
 <p align="left">
-  <img width="460" height="300" src="images/pien.png">
+  <img width="460" height="300" src="images/pien.PNG">
 </p>
 
 * C++ execution
 
 <p align="left">
-  <img width="460" height="300" src="images/pien1.png">
+  <img width="460" height="300" src="images/pien1.PNG">
 </p>
 
 <p align="left">
-  <img width="460" height="300" src="images/pien2.png">
+  <img width="460" height="300" src="images/pien2.PNG">
 </p>
 
 * MATLAB executions
 
 <p align="left">
-  <img width="460" height="300" src="images/pien3.png">
+  <img width="460" height="300" src="images/pien3.PNG">
 </p>
 
 * Python execution
